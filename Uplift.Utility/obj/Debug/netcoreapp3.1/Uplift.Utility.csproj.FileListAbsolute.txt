@@ -1,0 +1,9 @@
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.deps.json
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.dll
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Uplift.Utility.pdb
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.AssemblyInfoInputs.cache
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.AssemblyInfo.cs
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.dll
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.pdb
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Shahab\source\repos\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Uplift.Utility.csprojAssemblyReference.cache
