@@ -1,0 +1,14 @@
+Advanced Sample of Asp.Net Core 3.1 and MVC concept
+
+you must be familiar with Asp.Net core and MVC concept, C# and SQL.
+
+content of project :
+
+Repository pattern : Started with one of the most accepted pattern.
+N-tier Architecture : broke the project into multiple class libraries and separating out the code.
+Enntity framework using dapper and small sample of store procedure
+using complex object stored inside session.
+Data tables with API
+Authentication and Authotization
+Add cutom form at identity Asp.Net Core
+Seeding the Database users created automatically
